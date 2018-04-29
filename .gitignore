@@ -100,6 +100,7 @@ ENV/
 # mypy
 .mypy_cache/
 
-# ./data/*
+# Don't put data or models in the repo
 
 data/*
+models/*
